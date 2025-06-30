@@ -1,0 +1,12 @@
+# Нормализация окончаний строк (LF в репе)
+*.cpp    text eol=lf
+*.h      text eol=lf
+*.usf    text eol=lf
+*.ush    text eol=lf
+
+# Git LFS уже добавил ваши правила вида:
+# *.uasset filter=lfs diff=lfs merge=lfs -text
+# *.umap   filter=lfs diff=lfs merge=lfs -text
+
+# Остальное — авто
+* text=auto

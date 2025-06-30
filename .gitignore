@@ -1,0 +1,34 @@
+# Unreal Engine
+# Build folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+*.sln
+*.opensdf
+*.vcxproj*
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+# VS Code
+.vscode/
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xcodeproj
+
+# Generated files and temporary files
+*.log
+*.tlog
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
